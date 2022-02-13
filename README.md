@@ -64,6 +64,6 @@ In this project I learned more about the css transform property, the position pr
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/levibergamascki)
+- Frontend Mentor - [@levibergamascki](https://www.frontendmentor.io/profile/levibergamascki)
 - Twitter - [@levibergamascki](https://www.twitter.com/levibergamascki)
 
